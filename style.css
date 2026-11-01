@@ -1,1 +1,17 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Coinu&family=Titan+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nerko+One&family=Sriracha&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap');
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+:root{
+    --color-pink: #feecea;
+    --color-white: #fff;
+    --color-black: #333;
+    --color-text-pink: #ff7882;
+    --color-heart: #F61F1F;
+    --color-bg-letter: #fff8e4;
+    --color-border: #DACCBF;
+}
