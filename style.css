@@ -35,3 +35,8 @@ body {
     background-size:80px 80px;
     overflow: hidden;
     z-index: 1;
+}
+.flag_birthday{
+  display: flex;
+  justify-contant: space-between;
+  transform: translatY
