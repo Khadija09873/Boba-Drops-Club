@@ -55,6 +55,20 @@ body {
 }
 .content{
   width: 100%;
+  position: relative;
+    display: flex;
+    padding-top: 3rem;
+}
+.content .left, .content .right{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.content .left{
+    width: 40%;
+    padding-left: 100px;
   
 
 
