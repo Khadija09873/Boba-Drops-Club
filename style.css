@@ -69,6 +69,15 @@ body {
 .content .left{
     width: 40%;
     padding-left: 100px;
+}
+.content .right{
+  width: 60%;
+}
+.left .btn{
+  transform: (0);
+  animation: scaleCircle 2s 16s forwards ease-in-out;
+}
+
   
 
 
