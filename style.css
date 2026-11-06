@@ -39,4 +39,30 @@ body {
 .flag_birthday{
   display: flex;
   justify-contant: space-between;
-  transform: translatY
+  transform: translateY(-200px);
+  animation: translateYFlag 1.5s 2s forwards;
+}
+@keyframes translateYFlag{
+  to{
+  transform: translateY(-10px);
+  }
+}  
+.flag__birthday .flag__left{
+  transform: rotate(-10deg) translate(-20px,30px);
+}
+.flag__birthday .flag__right{
+  transform: rotate(10deg) translate(20px,30px) scaleX(-1);
+}
+.content{
+  width: 100%;
+  
+
+
+
+
+
+
+
+
+
+  
